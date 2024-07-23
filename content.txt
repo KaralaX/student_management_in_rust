@@ -1,0 +1,2 @@
+Nguyen Van A|Semester 2|Java
+Nguyen Van B|Semester 3|.NET
